@@ -1,7 +1,7 @@
 # Book Store Web App using Mern Stack
 This is a book store web application where consumers can buy books and sellers can list books.
 
-## Featues
+## Features
 1. Login
 2. Sign Up
 3. Logout
@@ -14,7 +14,7 @@ This is a book store web application where consumers can buy books and sellers c
 6. Stripe payment gateway
 7. Reviews for books by consumers
 
-## Features
+## Screenshots
 
 ## Technologies
 1. ReactJS

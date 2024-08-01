@@ -3,9 +3,10 @@ This is a book store web application where consumers can buy books and sellers c
 
 ## Featues
 1. Login
-2. SignUp
-3. Consumers' view
-4. Sellers' view for uploading books and tracking orders
+2. Sign Up
+3. Logout
+4. Consumers' view
+5. Sellers' view for uploading books and tracking orders
 3. Products page with separate categories
 4. Filter by author, category, and price
 4. Product Info page with status: in stock and out of stock with numbers left

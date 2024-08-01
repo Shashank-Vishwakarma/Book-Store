@@ -14,6 +14,8 @@ This is a book store web application where consumers can buy books and sellers c
 6. Stripe payment gateway
 7. Reviews for books by consumers
 
+## Features
+
 ## Technologies
 1. ReactJS
 2. TailwindCSS

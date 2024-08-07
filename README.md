@@ -26,9 +26,8 @@ This is a book store web application where consumers can buy books and sellers c
 7. NodeJS
 8. Express
 9. JWT Authentication
-10. Web Socket
-11. GraphQL
-12. Redis
+10. GraphQL
+11. Redis
 
 ## Frontend setup
 
